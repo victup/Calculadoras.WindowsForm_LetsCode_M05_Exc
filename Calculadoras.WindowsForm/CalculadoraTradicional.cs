@@ -175,7 +175,7 @@ namespace Calculadoras.WindowsForm
         {
             txtTela.Text = "0";
             lblOperacao.Text = "";
-            btn9.Focus();
+            btnResultado.Focus();
             
            
         }
