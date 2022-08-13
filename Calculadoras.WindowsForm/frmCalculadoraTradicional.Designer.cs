@@ -287,7 +287,7 @@
             this.MaximizeBox = false;
             this.Name = "frmCalculadoraTradicional";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CalculadoraTradicional";
+            this.Text = "Calculadora Tradicional";
             this.Load += new System.EventHandler(this.frmCalculadoraTradicional_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
