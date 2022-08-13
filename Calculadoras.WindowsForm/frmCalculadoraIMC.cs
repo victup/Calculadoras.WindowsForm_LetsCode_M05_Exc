@@ -89,5 +89,15 @@ namespace Calculadoras.WindowsForm
             lblTitulo.Text = "SISTEMA DE CALCULO DE IMC";
             txbPeso.Focus();
         }
+
+        private void menCalculadoras_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menCalculadoraImc_Click(object sender, EventArgs e)
+        {
+           
+        }
     }
 }
