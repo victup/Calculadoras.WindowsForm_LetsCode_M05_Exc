@@ -20,7 +20,7 @@ Ela recebe o seu peso e altura e com isso retorna o status do seu IMC.
 ### Calculadora Tradicional
 Realiza operações básicas (Soma, Subtração, Divisão e Multiplicação).
 Procurei manter no canto esquerdo do visor as últimas operações para que o usuário não se perca, caso continue operando mantendo os cálculos feitos anteriores. 
-
+ 
 ![image](https://user-images.githubusercontent.com/38474570/184463280-39ecdb99-43b4-4c8a-b746-2bdd7ecc7508.png)
 
 
